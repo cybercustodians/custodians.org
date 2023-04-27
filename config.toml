@@ -1,4 +1,4 @@
-baseURL = "http://cybercustodians.org"
+baseURL = "https://cybercustodians.org"
 title = "Cyber Custodians"
 theme = "hugo-coder"
 languageCode = "en"
@@ -13,7 +13,7 @@ style = "github-dark"
 
 [params]
 author = "Cyber Custodians"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+# license = '<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Cyber Custodians Organization Website"
 keywords = "cybersecurity,defensive,automation,it"
 info = ["IT Professionals"]
